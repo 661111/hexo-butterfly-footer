@@ -1,0 +1,37 @@
+{
+  "name": "hexo-butterfly-footer-marcus",
+  "version": "1.1.4",
+  "description": "hexo-butterfly仿heo页脚",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusyyds/hexo-butterfly-footer-marcus.git"
+  },
+  "keywords": [
+    "hexo",
+    "butterfly",
+    "footer",
+    "heo"
+  ],
+  "author": "Marcus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusyyds/hexo-butterfly-footer-marcus/issues"
+  },
+  "homepage": "https://github.com/marcusyyds/hexo-butterfly-footer-marcus#readme",
+  "dependencies": {
+    "nrm": "^2.0.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "rimraf": "^6.0.1",
+    "rollup": "^4.34.7",
+    "tsup": "^8.3.6",
+    "typescript": "^5.7.3"
+  }
+}
